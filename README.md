@@ -5,3 +5,4 @@ AWS stands for Amazon Web Services.The AWS service is provided by the Amazon tha
 ## Uses of AWS ##
 
 A small manufacturing organization uses their expertise to expand their business by leaving their IT management to the AWS.
+A large enterprise spread across the globe can utilize the AWS to deliver the training to the distributed workforce.
