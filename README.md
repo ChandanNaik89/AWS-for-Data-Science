@@ -8,4 +8,4 @@ A small manufacturing organization uses their expertise to expand their business
 A large enterprise spread across the globe can utilize the AWS to deliver the training to the distributed workforce.
 An architecture consulting company can use AWS to get the high-compute rendering of construction prototype. 
 A media company can use the AWS to provide different types of content such as ebox or audio files to the worldwide files.
-      
+    
