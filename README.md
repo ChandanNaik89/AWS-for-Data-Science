@@ -22,3 +22,7 @@ AWS requires no upfront investment, long-term commitment, and minimum expense wh
 3) Scalability/Elasticity
 Through AWS, autoscaling and elastic load balancing techniques are automatically scaled up or down, when demand increases or decreases respectively. AWS techniques are ideal for handling unpredictable or very high loads. Due to this reason, organizations enjoy the benefits of reduced cost and increased user satisfaction.
 
+4) Security
+AWS provides end-to-end security and privacy to customers.
+AWS has a virtual infrastructure that offers optimum availability while managing full privacy and isolation of their operations.
+Customers can expect high-level of physical security because of Amazon's several years of experience in designing, developing and maintaining large-scale IT operation centers.
