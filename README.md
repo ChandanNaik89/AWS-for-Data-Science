@@ -15,3 +15,6 @@ A media company can use the AWS to provide different types of content such as eb
 We can get more time for core business tasks due to the instant availability of new features and services in AWS.
 It provides effortless hosting of legacy applications. AWS does not require learning new technologies and migration of applications to the AWS provides the advanced computing and efficient storage.
 AWS also offers a choice that whether we want to run the applications and services together or not. We can also choose to run a part of the IT infrastructure in AWS and the remaining part in data centres.
+
+2) Cost-effectiveness
+AWS requires no upfront investment, long-term commitment, and minimum expense when compared to traditional IT infrastructure that requires a huge investment.
