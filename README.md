@@ -9,3 +9,4 @@ A large enterprise spread across the globe can utilize the AWS to deliver the tr
 An architecture consulting company can use AWS to get the high-compute rendering of construction prototype.   
 A media company can use the AWS to provide different types of content such as ebox or audio files to the worldwide files.  
  
+## Advantages of AWS ##
