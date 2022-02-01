@@ -18,3 +18,7 @@ AWS also offers a choice that whether we want to run the applications and servic
 
 2) Cost-effectiveness
 AWS requires no upfront investment, long-term commitment, and minimum expense when compared to traditional IT infrastructure that requires a huge investment.
+
+3) Scalability/Elasticity
+Through AWS, autoscaling and elastic load balancing techniques are automatically scaled up or down, when demand increases or decreases respectively. AWS techniques are ideal for handling unpredictable or very high loads. Due to this reason, organizations enjoy the benefits of reduced cost and increased user satisfaction.
+
