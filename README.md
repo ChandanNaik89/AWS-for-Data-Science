@@ -26,3 +26,4 @@ Through AWS, autoscaling and elastic load balancing techniques are automatically
 AWS provides end-to-end security and privacy to customers.
 AWS has a virtual infrastructure that offers optimum availability while managing full privacy and isolation of their operations.
 Customers can expect high-level of physical security because of Amazon's several years of experience in designing, developing and maintaining large-scale IT operation centers. 
+
