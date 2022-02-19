@@ -30,4 +30,5 @@ Customers can expect high-level of physical security because of Amazon's several
 
 Flexibility,
 Cost-effective,
+Scalable and elastic,
 
