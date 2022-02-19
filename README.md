@@ -29,3 +29,5 @@ Customers can expect high-level of physical security because of Amazon's several
 ## Features of AWS ##
 
 Flexibility
+Cost-effective
+
