@@ -27,3 +27,5 @@ AWS has a virtual infrastructure that offers optimum availability while managing
 Customers can expect high-level of physical security because of Amazon's several years of experience in designing, developing and maintaining large-scale IT operation centers. 
 
 ## Features of AWS ##
+
+Flexibility
