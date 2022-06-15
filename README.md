@@ -38,3 +38,4 @@ Experienced,
 
 An Amazon EC2 instance is a virtual server in Amazon's Elastic Compute Cloud (EC2) for running applications on the Amazon Web Services (AWS) infrastructure.
 AWS is a comprehensive, evolving cloud computing platform; EC2 is a service that enables business subscribers to run application programs in the computing environment.
+Amazon provides various types of instances with different configurations of CPU, memory, storage and networking resources to suit user needs.
