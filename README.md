@@ -33,3 +33,5 @@ Cost-effective,
 Scalable and elastic,
 Secure,
 Experienced,
+
+# EC2 Instance ##
