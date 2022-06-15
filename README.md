@@ -33,4 +33,3 @@ Cost-effective,
 Scalable and elastic,
 Secure,
 Experienced,
- 
