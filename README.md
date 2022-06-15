@@ -34,4 +34,6 @@ Scalable and elastic,
 Secure,
 Experienced,
 
-# EC2 Instance ##
+# EC2 Instance #
+
+An Amazon EC2 instance is a virtual server in Amazon's Elastic Compute Cloud (EC2) for running applications on the Amazon Web Services (AWS) infrastructure.
