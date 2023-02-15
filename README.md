@@ -9,7 +9,7 @@ An architecture consulting company can use AWS to get the high-compute rendering
 A media company can use the AWS to provide different types of content such as ebox or audio files to the worldwide files.   
  
 ## Advantages of AWS ##         
-
+ 
 1) Flexibility
 We can get more time for core business tasks due to the instant availability of new features and services in AWS.
 It provides effortless hosting of legacy applications. AWS does not require learning new technologies and migration of applications to the AWS provides the advanced computing and efficient storage.
